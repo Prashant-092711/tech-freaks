@@ -208,12 +208,11 @@ h3{
     position: relative;
     margin: 4rem auto;
     width: 40%;
-    background: rgba(0, 0, 0, 0.226);
+    background: rgba(189, 189, 189, 0.445);
     padding: 3rem;
     border-radius: .25rem;
     z-index: 5;
 }
-
 
 .loginRegester form>*{
     margin: .25rem 0;
